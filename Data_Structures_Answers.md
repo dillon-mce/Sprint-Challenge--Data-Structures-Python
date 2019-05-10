@@ -29,4 +29,5 @@ Add your answers to the questions below.
 **O(min(n1, n2))** As far as I can tell, the intersection of two sets takes **O(n)** where n is the smaller of the two sets. The code runs in about 0.0035 seconds on my computer, compared to 6.5 seconds for the version that was given to us.
 
 8. What is the space complexity of your optimized code in `names.py`?
+
 **O(2n)), simplifies to O(n)**  Same as the space complexity of the code tht was given to us. Only held in sets, not lists.
